@@ -1,0 +1,50 @@
+2026-05-26 13:42:01,464 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-26 13:42:01,507 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithValidCredentials ---
+2026-05-26 13:42:04,316 [main] INFO  com.erp.baseclass.BaseClass - Login attempted with user: transcend
+2026-05-26 13:42:04,337 [main] INFO  com.erp.baseclass.BaseClass - Page title after login: Forest Corporation
+2026-05-26 13:42:04,337 [main] INFO  com.erp.baseclass.BaseClass - PASS: Login successful
+2026-05-26 13:42:14,930 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithInvalidCredentials ---
+2026-05-26 13:42:15,717 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithExcelData | User: transcend ---
+2026-05-26 13:42:16,101 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-26 13:47:13,461 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-26 13:47:20,570 [main] INFO  com.erp.baseclass.BaseClass - Login Test Passed
+2026-05-26 13:47:20,796 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-26 13:55:02,960 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-26 13:55:04,206 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-26 16:33:07,197 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-26 16:33:07,471 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-26 16:40:07,856 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-26 16:40:08,058 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-26 16:55:37,802 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-26 16:55:40,275 [main] INFO  com.erp.baseclass.BaseClass - username provided
+2026-05-26 16:55:40,417 [main] INFO  com.erp.baseclass.BaseClass - password  provided
+2026-05-26 16:55:41,980 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-26 16:57:30,239 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-26 16:57:31,591 [main] INFO  com.erp.baseclass.BaseClass - username provided
+2026-05-26 16:57:31,674 [main] INFO  com.erp.baseclass.BaseClass - password  provided
+2026-05-26 16:57:35,188 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-26 17:08:22,208 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-26 17:08:23,543 [main] INFO  com.erp.baseclass.BaseClass - username provided
+2026-05-26 17:08:23,626 [main] INFO  com.erp.baseclass.BaseClass - password  provided
+2026-05-26 17:08:27,022 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-26 17:09:14,806 [main] ERROR com.erp.baseclass.BaseClass - Error during browser setup:invalid argument
+  (Session info: chrome=148.0.7778.179)
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [53a9b6afe6367bbe38db45d29c1b663b, get {url=113.193.239.230/upfclkonewui/}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.179, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\Users\TRANSC~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53010}, goog:processID: 15056, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53010/devtoo..., se:cdpVersion: 148.0.7778.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 53a9b6afe6367bbe38db45d29c1b663b
+2026-05-26 17:09:16,451 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-26 17:10:03,947 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-26 17:10:05,668 [main] INFO  com.erp.baseclass.BaseClass - username provided
+2026-05-26 17:10:05,746 [main] INFO  com.erp.baseclass.BaseClass - password  provided
+2026-05-26 17:10:10,080 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-05-27 13:05:36,597 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-05-27 13:05:36,635 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithValidCredentials ---
+2026-05-27 13:05:39,882 [main] INFO  com.erp.baseclass.BaseClass - Login attempted with user: transcend
+2026-05-27 13:05:39,893 [main] INFO  com.erp.baseclass.BaseClass - Page title after login: Forest Corporation
+2026-05-27 13:05:39,893 [main] INFO  com.erp.baseclass.BaseClass - PASS: Login successful
+2026-05-27 13:05:50,475 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithInvalidCredentials ---
+2026-05-27 13:05:51,480 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithExcelData | User: transcend1 ---
+2026-05-27 13:05:52,045 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed

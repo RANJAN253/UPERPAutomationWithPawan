@@ -134,3 +134,9 @@ Session ID: 53a9b6afe6367bbe38db45d29c1b663b
 2026-06-25 17:18:20,580 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
 2026-06-25 17:18:28,231 [main] INFO  com.erp.baseclass.BaseClass - Login Test Passed
 2026-06-25 17:18:28,589 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-29 15:11:32,763 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-29 15:11:33,866 [main] INFO  com.erp.baseclass.BaseClass - Login Test Passed
+2026-06-29 15:11:34,109 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-29 15:28:06,012 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-29 15:28:13,357 [main] INFO  com.erp.baseclass.BaseClass - Login Test Passed
+2026-06-29 15:28:13,817 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed

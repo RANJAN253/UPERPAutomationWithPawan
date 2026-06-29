@@ -23,11 +23,9 @@ D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\testcases\
 D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\testcases\TC4_EmpMasterTestCase.java
 D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\testcases\TC5_TimberStackMasterTestCase.java
 D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\testcases\TC6_E_NoteSheetTestCase.java
-D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\testcases\TC7_E_NoteSheetWithDataDriven.java
-D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\testcases\UserCreationTestCase.java
 D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\utilities\A_ReadConfig.java
 D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\utilities\B_ReadExcel.java
-D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\utilities\B_ReadExcelNew.java
+D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\utilities\BReadExcelNew.java
 D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\utilities\C_ExtentReport.java
 D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\utilities\D_Listeners.java
 D:\AutomationFramework\UPERPAutomationWithPawan\src\test\java\com\erp\utilities\D_Reporting_option.java

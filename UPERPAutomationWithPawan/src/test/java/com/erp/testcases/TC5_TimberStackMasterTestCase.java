@@ -11,9 +11,9 @@ public class TC5_TimberStackMasterTestCase extends BaseClass {
 	@Test
 	public void stackMaster() throws InterruptedException, IOException {
 		LoginPage lp = new LoginPage(driver);
-		lp.setUserName(username);
-		lp.setPassword(password);
-		lp.clickOnLoginBtn();
+		lp.enterUsername(username);
+		lp.enterPassword(password);
+		lp.clickLoginButton();
 
 		TimberStackMasterPage stack = new TimberStackMasterPage(driver);
 		stack.selectLocation("Kursi Road Depot Lucknow [Depot]");

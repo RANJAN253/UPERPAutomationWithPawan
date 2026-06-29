@@ -9,7 +9,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import com.erp.baseclass.BaseClass;
 import com.erp.pages.LoginPage;
-import com.erp.utilities.B_ReadExcelNew;
+import com.erp.utilities.BReadExcelNew;
 import junit.framework.Assert;
 
 public class TC2_LoginTestCaseWithDDT extends BaseClass{
@@ -81,15 +81,15 @@ public class TC2_LoginTestCaseWithDDT extends BaseClass{
 	String[][] getData() throws IOException
 	{
 		String path= "D:/AutomationFramework/UPERPAutomationWithPawan/ReadFromExcel/ForestDetails.xlsx";
-		int rownum=B_ReadExcelNew.getRowCount(path, "login");
-		int colcount=B_ReadExcelNew.getCellCount(path, "login", 1);
+		int rownum=BReadExcelNew.getRowCount(path, "login");
+		int colcount=BReadExcelNew.getCellCount(path, "login", 1);
 		
 		String logindata[][]= new String[rownum][colcount];
 		for(int i=1; i<=rownum; i++)
 		{
 			for(int j=0;j<colcount; j++)
 			{
-				logindata[i-1][j]= B_ReadExcelNew.getCellData(path, "login", i, j);
+				logindata[i-1][j]= BReadExcelNew.getCellData(path, "login", i, j);
 			}
 		}
 		return logindata;

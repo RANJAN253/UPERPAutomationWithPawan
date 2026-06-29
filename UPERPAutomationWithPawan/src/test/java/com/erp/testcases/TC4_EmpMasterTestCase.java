@@ -12,9 +12,9 @@ public class TC4_EmpMasterTestCase extends BaseClass {
 	
 	public void addPlotMaster() throws InterruptedException, IOException {
 		LoginPage lp = new LoginPage(driver);
-		lp.setUserName(username);
-		lp.setPassword(password);
-		lp.clickOnLoginBtn();
+		lp.enterUsername(username);
+		lp.enterPassword(password);
+		lp.clickLoginButton();
 
 		EmpMasterPage emp = new EmpMasterPage(driver);
 		

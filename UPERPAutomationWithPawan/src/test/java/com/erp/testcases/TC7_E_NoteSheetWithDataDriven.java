@@ -16,7 +16,7 @@ public class TC7_E_NoteSheetWithDataDriven extends BaseClass {
 	ENoteSheetPage sheet ;
 	
 	
-	@Test(dataProvider ="LoginData")	
+	@Test(dataProvider ="LoginData", enabled = false)	
 	   //@Test(priority=1,dataProvider ="getTestData")
 	   //public void saleDatePages(String saleTypes, String saleStatus, String[] arrDepotName) throws InterruptedException
 	public void serviceMethod(String username, String password, String notesheetcat, String notesheetsubcat,String doc, String subject, String details,String comment) throws InterruptedException

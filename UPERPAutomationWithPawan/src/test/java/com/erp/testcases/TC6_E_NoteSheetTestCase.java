@@ -61,10 +61,10 @@ public class TC6_E_NoteSheetTestCase extends BaseClass {
 		@Test(priority=3, enabled = false)
 		public void statusENoteSheet3() throws InterruptedException, IOException {
 			LoginPage lp = new LoginPage(driver);
-			lp.setUserName("cao");
+			lp.enterUsername("cao");
 			Thread.sleep(1000);
-			lp.setPassword("123456");
-			lp.clickOnLoginBtn();
+			lp.enterPassword("123456");
+			lp.clickLoginButton();
 
 			ENoteSheetPage notesheet = new ENoteSheetPage(driver);
 			
@@ -81,16 +81,16 @@ public class TC6_E_NoteSheetTestCase extends BaseClass {
 			notesheet.clickOnSubmit();
 			Thread.sleep(3000);
 			notesheet.ActionAcc();
-			lp.clickOnddlLogoutBtn();
+			lp.clickLogoutButton();
 		}
 		
 		@Test(priority=4, enabled = false)
 		public void statusENoteSheet4() throws InterruptedException, IOException {
 			LoginPage lp = new LoginPage(driver);
-			lp.setUserName("rmlko");
+			lp.enterUsername("rmlko");
 			Thread.sleep(1000);
-			lp.setPassword("123456");
-			lp.clickOnLoginBtn();
+			lp.enterPassword("123456");
+			lp.clickLoginButton();
 
 			ENoteSheetPage notesheet = new ENoteSheetPage(driver);
 			
@@ -107,16 +107,16 @@ public class TC6_E_NoteSheetTestCase extends BaseClass {
 			notesheet.clickOnSubmit();
 			Thread.sleep(3000);
 			notesheet.ActionAcc();
-			lp.clickOnddlLogoutBtn();
+			lp.clickLogoutButton();
 		}
 		
 		@Test(priority=5, enabled = false)
 		public void statusENoteSheet5() throws InterruptedException, IOException {
 			LoginPage lp = new LoginPage(driver);
-			lp.setUserName("gmsale");
+			lp.enterUsername("gmsale");
 			Thread.sleep(1000);
-			lp.setPassword("123456");
-			lp.clickOnLoginBtn();
+			lp.enterPassword("123456");
+			lp.clickLoginButton();
 
 			ENoteSheetPage notesheet = new ENoteSheetPage(driver);
 			
@@ -133,16 +133,16 @@ public class TC6_E_NoteSheetTestCase extends BaseClass {
 			notesheet.clickOnSubmit();
 			Thread.sleep(3000);
 			notesheet.ActionAcc();
-			lp.clickOnddlLogoutBtn();
+			lp.clickLogoutButton();
 		}
 		
 		@Test(priority=6, enabled = false)
 		public void statusENoteSheet6() throws InterruptedException, IOException {
 			LoginPage lp = new LoginPage(driver);
-			lp.setUserName("ag3.2dsmlko");
+			lp.enterUsername("ag3.2dsmlko");
 			Thread.sleep(1000);
-			lp.setPassword("123456");
-			lp.clickOnLoginBtn();
+			lp.enterPassword("123456");
+			lp.clickLoginButton();
 
 			ENoteSheetPage notesheet = new ENoteSheetPage(driver);
 			
@@ -159,7 +159,7 @@ public class TC6_E_NoteSheetTestCase extends BaseClass {
 			notesheet.clickOnSubmit();
 			Thread.sleep(3000);
 			notesheet.ActionAcc();
-			lp.clickOnddlLogoutBtn();
+			lp.clickLogoutButton();
 		}
 		
 		

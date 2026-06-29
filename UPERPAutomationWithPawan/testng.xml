@@ -3,13 +3,16 @@
 <suite name="Suite">
 
 <listeners>
-	<listener class-name="com.erp.utilities.Listeners"/>
+	<listener class-name="com.erp.utilities.D_Listeners"/>
 </listeners>
 
 <parameter name="browser" value="chrome"/>
+
   <test thread-count="5" name="Login">
-     <classes>
+    <classes>
       <class name="com.erp.testcases.TC1_LoginTestCase"/>
     </classes>
-  </test> <!-- Login -->
+  </test> <!-- Test -->
 </suite> <!-- Suite -->
+
+

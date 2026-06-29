@@ -3,15 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.erp.testcases.LoginTestCase">
+      <class name="com.erp.testcases.TC3_PlotMasterTestCase">
         <methods>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="loginWithInvalidCredentials"/>
-          <include name="loginWithExcelData" invocation-numbers="0"/>
-          <include name="loginWithValidCredentials"/>
+          <include name="addPlotMaster"/>
         </methods>
-      </class> <!-- com.erp.testcases.LoginTestCase -->
+      </class> <!-- com.erp.testcases.TC3_PlotMasterTestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -48,3 +48,89 @@ Session ID: 53a9b6afe6367bbe38db45d29c1b663b
 2026-05-27 13:05:50,475 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithInvalidCredentials ---
 2026-05-27 13:05:51,480 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithExcelData | User: transcend1 ---
 2026-05-27 13:05:52,045 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 11:40:00,802 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 11:40:00,826 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithValidCredentials ---
+2026-06-25 11:40:10,865 [main] INFO  com.erp.baseclass.BaseClass - Login attempted with user: transcend
+2026-06-25 11:40:10,873 [main] INFO  com.erp.baseclass.BaseClass - Page title after login: Forest Corporation
+2026-06-25 11:40:10,874 [main] INFO  com.erp.baseclass.BaseClass - PASS: Login successful
+2026-06-25 11:40:13,397 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithInvalidCredentials ---
+2026-06-25 11:40:18,140 [main] INFO  com.erp.baseclass.BaseClass - --- TEST: loginWithExcelData | User: transcend1 ---
+2026-06-25 11:40:23,406 [main] INFO  com.erp.baseclass.BaseClass - Title after login: UPFC ERP
+2026-06-25 11:40:24,287 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 12:35:54,121 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 12:35:54,155 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 12:36:01,977 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 12:36:02,069 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 12:36:02,149 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 12:36:13,091 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 12:58:31,005 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 12:58:31,042 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 12:58:37,802 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 12:58:37,891 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 12:58:37,955 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 12:58:46,160 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 13:16:22,393 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 13:16:22,434 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 13:16:49,550 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 13:16:49,638 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 13:17:11,991 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 13:20:05,673 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 13:20:05,705 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 13:20:18,939 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 13:20:19,021 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 13:20:32,420 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 13:20:32,884 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 13:24:46,428 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 13:24:46,480 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 13:24:46,609 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 13:24:46,702 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 13:24:48,552 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 13:25:09,211 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 13:33:35,772 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 13:33:35,798 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 13:33:35,900 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 13:33:35,989 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 13:33:49,078 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 13:34:15,857 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 15:13:11,458 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 15:13:11,489 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 15:13:11,646 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 15:13:11,751 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 15:13:16,928 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 15:13:17,455 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 15:16:58,698 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 15:16:58,714 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 15:16:58,850 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 15:16:58,967 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 15:17:11,833 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 15:17:12,525 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 15:19:04,597 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 15:19:04,634 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 15:19:16,921 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 15:19:17,043 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 15:19:19,989 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 15:19:20,490 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 15:22:36,532 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 15:22:36,564 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 15:22:36,737 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 15:22:36,882 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 15:22:44,071 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 15:22:44,429 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 15:25:05,293 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 15:25:05,326 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 15:25:21,537 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 15:25:21,630 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 15:25:34,850 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 15:25:35,462 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 15:39:06,271 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 15:39:06,318 [main] INFO  com.erp.baseclass.BaseClass - ********** Plot Master Test Started **********
+2026-06-25 15:39:24,916 [main] INFO  com.erp.baseclass.BaseClass - Entered Username
+2026-06-25 15:39:25,017 [main] INFO  com.erp.baseclass.BaseClass - Entered Password
+2026-06-25 15:39:39,007 [main] INFO  com.erp.baseclass.BaseClass - Login Successful
+2026-06-25 15:39:39,327 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 17:13:42,071 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 17:13:43,369 [main] INFO  com.erp.baseclass.BaseClass - Login Test Passed
+2026-06-25 17:13:43,607 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed
+2026-06-25 17:18:20,580 [main] INFO  com.erp.baseclass.BaseClass - Application URL Opened:http://113.193.239.230/upfclkonewui/
+2026-06-25 17:18:28,231 [main] INFO  com.erp.baseclass.BaseClass - Login Test Passed
+2026-06-25 17:18:28,589 [main] INFO  com.erp.baseclass.BaseClass - Browser Closed

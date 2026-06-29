@@ -44,7 +44,7 @@ public class LoginPage {
     @FindBy(xpath = "//a[@id='ctl00_lblLoginName']")
     WebElement profileMenu;
     
-    @FindBy(xpath="//span[text()='Dashboard']")
+    @FindBy(xpath="//a[normalize-space()='DashBoard']")
     WebElement dashboard;
 
     // ─── Page Actions (Methods used in Test Classes) ───────────
@@ -59,7 +59,13 @@ public class LoginPage {
     }
     
     public void clickLoginButton() throws InterruptedException {
-        loginButton.sendKeys(Keys.ENTER);
+    	
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
+        
+    	wait.until(ExpectedConditions.elementToBeClickable(loginButton));
+        loginButton.click();
+        
+           wait.until(ExpectedConditions.visibilityOf(dashboard));
     }
 
      public void clickLogoutButton() {

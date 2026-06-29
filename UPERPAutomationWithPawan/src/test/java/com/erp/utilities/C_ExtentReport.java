@@ -25,7 +25,8 @@ public class C_ExtentReport extends TestListenerAdapter {
 	    public void onStart(ITestContext context) {
 
 	        String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
-	        String repName = "Test-Report-" + timeStamp + ".html";
+	      //  String repName = "Test-Report-" + timeStamp + ".html";
+	        String repName = "ExtentReport.html";
 
 	        // ✅ Correct initialization
 	        sparkReporter = new ExtentSparkReporter(System.getProperty("user.dir") + "/Reports/" + repName);
